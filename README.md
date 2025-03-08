@@ -1,8 +1,8 @@
 # Calculadora de equações do 2° Grau
 
-Calculadora de equações do 2° Grau com interface desenvolvida com Java Swing.
+Calculadora de equações do 2° Grau com interface desenvolvida em Java Swing para praticar conceitos.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 
 - Java SE
 - Java Swing
